@@ -4,7 +4,17 @@
 
 An interactive Whack-A-Mole style game developed using Unity3D and C#. This project utilizes mixed reality (MR) capabilities to create an immersive gaming experience.
 
-![Unity3D Whack-A-Mole](https://github.com/Juhwan21st/Unity3D_Whack-A-Mole_MRGame/blob/main/images_videos/StartScene.png)
+<div style="display: flex; justify-content: center; margin: 0;">
+  <table style="border-spacing: 0; width: auto;">
+    <tr>
+      <td style="padding: 0;"><img src="https://github.com/Juhwan21st/Unity3D_Whack-A-Mole_MRGame/blob/main/images_videos/WhakAMole_3D_Modeling.png" alt="Unity3D Whack-A-Mole 2" style="width:420px;"/></td>
+      <td rowspan="2" style="padding: 0; vertical-align: top;"><img src="https://github.com/Juhwan21st/Unity3D_Whack-A-Mole_MRGame/blob/main/images_videos/3D_WhackAMole_test.png" alt="Unity3D Whack-A-Mole 4" style="width:455px; height: auto;"/></td>
+    </tr>
+    <tr>
+      <td style="padding: 0;"><img src="https://github.com/Juhwan21st/Unity3D_Whack-A-Mole_MRGame/blob/main/images_videos/WhakAMole_3D_ModelingBW.png" alt="Unity3D Whack-A-Mole 1" style="width:420px;"/></td>
+    </tr>
+  </table>
+</div>
 
 ## Description 📖
 Unity3D Whack-A-Mole MRGame is a mixed reality game where players can interact with virtual targets using real-world movements. This project explores the integration of Blender-created 3D models and Unity3D's game development features.
